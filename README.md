@@ -11,12 +11,12 @@ Core Statistics for Datascience
 
 Notebooks in this repo:
 
-* Trends Supervised Learning
-* Clustering
-* GMM
-* PCA
-* Recommendations
-* Network Analysis
+* [Trends Supervised Learning](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson2_7_Trends_Supervized_Learning.ipynb)
+* [Clustering](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_1_Cluster_Analysis.ipynb)
+* [GMM](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_2_GMM.ipynb)
+* [PCA](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_3_PCA.ipynb)
+* [Recommendations](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_5_recommendations.ipynb)
+* [Network Analysis](https://github.com/noahgift/core-stats-datascience/blob/master/network_analysis.ipynb)
 
 ### Additional Related Topics from Noah Gift
 
