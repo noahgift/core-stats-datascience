@@ -6,6 +6,7 @@ Core Statistics for Datascience
 #### Part 1:
 
 * [Introduction to Colab & Introduction to Data Science](https://paiml.github.io/python_for_datascience/intro.html)
+* [Data science key facts](https://github.com/noahgift/core-stats-datascience/blob/master/Data_science_key_facts.ipynb)
 
 #### Part 2:
 
