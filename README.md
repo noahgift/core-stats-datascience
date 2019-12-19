@@ -19,6 +19,10 @@ Notebooks in this repo:
 * [Recommendations](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_5_recommendations.ipynb)
 * [Network Analysis](https://github.com/noahgift/core-stats-datascience/blob/master/network_analysis.ipynb)
 
+#### Part 3 (Bonus):
+
+* Doing ML in the cloud:  walk through census project AWS Sagemaker
+
 ### Additional Related Topics from Noah Gift
 
 His most recent books are:
