@@ -1,4 +1,4 @@
-# core-stats-datascience
+# Core Statistics for datascience
 Core Statistics for Datascience
 
 ## Outline for Talk
