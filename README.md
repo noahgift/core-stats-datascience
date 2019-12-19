@@ -7,11 +7,13 @@ Core Statistics for Datascience
 
 * [Introduction to Colab & Introduction to Data Science](https://paiml.github.io/python_for_datascience/intro.html)
 * [Data science key facts](https://github.com/noahgift/core-stats-datascience/blob/master/Data_science_key_facts.ipynb)
+* [Data science libraries](https://paiml.github.io/python_for_datascience/lessons/Lesson9_Python_For_Data_Science_Data_Science_Libraries.html)
 
 #### Part 2:
 
-Notebooks in this repo:
+Notebooks in this repo [EDA, Feature Engineering and Predictive Modeling Theory]:
 
+* [Data Science Workflow](https://github.com/noahgift/core-stats-datascience/blob/master/data_science_workflow.ipynb)
 * [Trends Supervised Learning](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson2_7_Trends_Supervized_Learning.ipynb)
 * [Clustering](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_1_Cluster_Analysis.ipynb)
 * [GMM](https://github.com/noahgift/core-stats-datascience/blob/master/Lesson3_2_GMM.ipynb)
